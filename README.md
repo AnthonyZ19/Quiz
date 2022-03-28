@@ -1,2 +1,2 @@
 # Quiz
-Just a simple quiz with Python
+Just a simple quiz with Python that includes scoring
